@@ -1,6 +1,6 @@
 # ChatSocket
 
-# ChatSocketServer: https://github.com/azimsh3r/ChatSocketServer <- absolutely necessary for running
+ChatSocketServer: https://github.com/azimsh3r/ChatSocketServer
 
 ChatSocket is a command-line application that enables real-time messaging using socket communication. This project consists of two parts: the ChatSocket server and the ChatSocket client.
 
